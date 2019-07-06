@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Linux: The Complete Reference",
+    "price": 27.22,
+    "author": "Richard Petersen",
+    "category": "Computer",
+    "language": "en",
+    "ISBN": "978-0071492478",
+    "publishDate": "2016-12-14"
+  },
+  {
+    "id": 2,
+    "name": "Design Patterns: Elements of Reusable Object-Oriented Software ",
+    "price": 15.11,
+    "author": "Ralph Johnson, John Vlissides, Grady Booch",
+    "category": "Computer Science",
+    "language": "en",
+    "ISBN": "978-0201633610",
+    "publishDate": "2016-03-01"
+  },
+  {
+    "id": 3,
+    "name": "Star Wars: Darth Vader Vol. 1: Vader",
+    "price": 26.54,
+    "author": "Kieron Gillen",
+    "category": "Comic Novels",
+    "language": "en",
+    "ISBN": "485-6582-658",
+    "publishDate": "2015-09-16"
+  }
+]
